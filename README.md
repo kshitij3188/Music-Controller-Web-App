@@ -1,4 +1,4 @@
-# Music-Controller-Web-App-Tutorial
+# Music Controller Web App
 
 Django & React Full Stack Web App Tutorial
 
